@@ -1,0 +1,6 @@
+flask
+flask-cors
+aiohttp
+requests
+pycryptodome
+httpx
